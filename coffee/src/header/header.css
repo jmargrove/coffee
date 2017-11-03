@@ -1,0 +1,31 @@
+.header{
+  height: 200px;
+  width: 100vw;
+  border: solid;
+  border-width: thin;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+}
+
+
+.logo{
+  height: 200px;
+  width: 250px;
+  background-image: url('./../images/coffee-green-black.jpg');
+  background-size: contain;
+}
+
+.drop-down{
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  height: 70px;
+  width: 600px;
+  background: -webkit-linear-gradient(#e3ecc2, #849e3c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+
+}

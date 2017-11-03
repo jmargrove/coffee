@@ -1,0 +1,9 @@
+#map{
+  width: 600px;
+  height: 372px;
+  background-color: grey;
+  border: solid;
+  border: 10px;
+  border-color: black;
+  border-radius: 10px;
+}

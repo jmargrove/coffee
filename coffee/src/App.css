@@ -1,0 +1,41 @@
+.page-2{
+  width: 100vw;
+  height: 100vw;
+  background-color: #565554;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.stat-header{
+  width: 700px;
+  height: 133px;
+  background-color: white;
+  font-size: 50px;
+}
+
+.stat-body{
+  width: 900px;
+  height: 900px;
+  background-color: white;
+}
+
+.rainfall-graph{
+  height: 300px;
+  width: 600px;
+  border: solid;
+  margin: 20px;
+}
+
+.imgs{
+  width: 100%;
+}
+
+
+.rainfall-map{
+  border: solid;
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+}

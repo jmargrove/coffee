@@ -1,0 +1,48 @@
+.main-page{
+  width: 100vw;
+  height: 650px;
+  background-image: url('./../images/mainpage-globe.png');
+  background-size: cover;
+  display: flex;
+  /*justify-content: space-around;*/
+  align-items: center;
+  /*align-content: space-around;*/
+  flex-direction: column;
+}
+
+.coord-box{
+  margin: 10px;
+  width: 450px;
+  height: 55px;
+  background-color: white;
+  border: solid;
+  border-width: thin;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.google-maps{
+  width: 600px;
+  height: 372px;
+  background-color: white;
+  margin-top: 30px;
+  border: solid;
+  border-width: thin;
+  border-radius: 10px;
+}
+
+.button{
+  /*width: 30px;*/
+  margin-left: 20px;
+  font-size: 15px;
+}
+
+.image-precip{
+  margin: 50px;
+  width: 300px;
+  border: solid;
+  height: 450px;
+  background-size: cover;
+}
